@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title>My Web Application</title>
-	<link href="plugins/bootstrap-4.3.1/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-	<script src="plugins/bootstrap-4.3.1/js/modernizr.min.js"></script>
+	<link href="/plugins/bootstrap-4.3.1/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<script src="/plugins/bootstrap-4.3.1/js/modernizr.min.js"></script>
 </head>
 <body>
 	<div class="container">
